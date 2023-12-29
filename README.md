@@ -25,7 +25,7 @@ Combinational circuits can be made using various logic gates, such as AND gates,
 
 ## Logic Diagram
 
-![image](https://github.com/mithra916/Experiment--02-Implementation-of-combinational-logic-/assets/149986612/ffa412e6-6080-4472-9f45-87a6fb9ff7fa)
+![image](https://github.com/mithra916/Experiment--02-Implementation-of-combinational-logic-/assets/149986612/f08c44e8-5926-44c2-9989-aba13769971a)
 
 ## Procedure
 ```
@@ -77,8 +77,11 @@ assign F1=x1|x2|x3|x4|x5;
 endmodule
 ```
 ## RTL realization
+
+![image](https://github.com/mithra916/Experiment--02-Implementation-of-combinational-logic-/assets/149986612/965f5572-9e85-4c5f-b6cc-44dbdba69461)
+
 ## Output:
-## RTL
+## Truth table
 
 ![image](https://github.com/mithra916/Experiment--02-Implementation-of-combinational-logic-/assets/149986612/f835e630-bd71-4bcc-ac8b-5afd35348e7c)
 
